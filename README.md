@@ -84,4 +84,8 @@ Una línea.
 
 Otra línea.
 
-<!- Este texto es un comentario y no será renderizado -->
+<!-- Este texto es un comentario y no será renderizado -->
+
+GitHub supports emoji!
+:+1: :sparkles: :camel: :tada:
+:rocket: :metal: :octocat:
